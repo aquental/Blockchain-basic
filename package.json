@@ -1,0 +1,24 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "description": "bitcpin wallet using Elecctrum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquental/Blockchain-basic.git"
+  },
+  "author": "aquental",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquental/Blockchain-basic/issues"
+  },
+  "homepage": "https://github.com/aquental/Blockchain-basic#readme",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.1.0-rc.0"
+  }
+}
