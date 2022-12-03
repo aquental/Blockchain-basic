@@ -34,7 +34,8 @@ console.log("Seed         : ",mnemonic,"\n")
 
 /*
 Carteira gerada:
-Endereço  mjtFniEC5Te41eQDdi7xExRQLp3thsgX3V
-Chave privada:  cSeWSPP6HTwbmJ2Z6cp3wBsUQwVn3jTdCqz9k49iQ1Dqd76jsrvd
-Seed:  silly rather window peace visual trophy friend prefer maple report into brass 
+Endereço     :  n4ZJHMEW45Xu4FxAr5S3TZLgiK6UnBeQuV
+Chave privada:  cR7rYgK2kpVQPafjCrWqEKGbS1unVm3PbsgJcXm6kAVWvZVzeFTu
+Seed         :  guess glue indicate mammal alley obscure muscle case nice payment side mechanic 
+
 */
